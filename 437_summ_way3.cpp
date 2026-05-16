@@ -30,6 +30,5 @@ class Solution {
             prefixSum[currentSum]--;
     
             return count;
-        
         }
     };
